@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mateus Fugita!
 
-I'm a full stack developer intern at IBM, helping the Client Technical Leader's team in the development of demonstrations that uses IBM Cloud services to show clients how technological solutions can impact positively their companies!
+I'm a back-end developer at Shipay, a brazilian fintech that works digital wallets integrations, working with Python, Flask, PostgreSQL and MongoDB.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fugita/)
 
