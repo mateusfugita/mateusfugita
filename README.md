@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mateus Fugita!
 
-I'm a back-end developer at Shipay, a brazilian fintech that works digital wallets integrations, working with Python, Flask, PostgreSQL and MongoDB.
+I'm a full stack developer at Wipro (working for the Argo Seguros team), working with React and .NET.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fugita/)
 
