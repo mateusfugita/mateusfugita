@@ -1,11 +1,49 @@
-# Hi 👋, I'm Mateus Fugita!
+<h1 align='center'>
+  Hi 👋, I'm Mateus Fugita! 🇧🇷 🇯🇵
+</h1>
 
-I'm a front-end developer at Wipro, working with React ![ReactJS](https://img.icons8.com/color/24/react-native.png).
+<div align='center'>
+  <p>
+    Science and technology admirer and Lego collector, I'm a front-end developer at Wipro and graduated in Computer Engineering 💻.
+  </p>
+  <a href='https://www.linkedin.com/in/mateus-fugita/'>
+    <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='LinkedIn'/>
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fugita/)
+<h2 align='center'>
+  My daily stack 🕛
+</h2>
+<div align='center'>
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'/>
+  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
+  <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux'/>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
+  <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' alt='Styled-components'/>
+</div>
 
-## Languages and tools
-![ReactJS](https://img.icons8.com/color/30/react-native.png)![Redux](https://img.icons8.com/color/30/redux.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Python](https://img.icons8.com/color/30/python.png)<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![PostgreSQL](https://img.icons8.com/color/30/postgresql.png)![Selenium](https://img.icons8.com/color/30/selenium.png)![Docker](https://img.icons8.com/color/30/docker.png)
+<h2 align='center'>
+  Loving to study more about ♥️
+</h2>
+<div align='center'>
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript'/>
+  <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native'/>
+  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='TailwindCSS'/>
+</div>
+
+<h2 align='center'>
+  I also have experience with 🧠
+</h2>
+<div align='center'>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/>
+  <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='Python'/>
+  <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' alt='Flask'/>
+  <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='PostgreSQL'/>
+  <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' alt='Docker'/>
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/mateusfugita">
