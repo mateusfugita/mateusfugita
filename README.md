@@ -4,7 +4,7 @@
 
 <div align='center'>
   <p>
-    Innovative Front-end Developer with over 4+ years of experience in crafting immersive digital experiences, I've been a key contributor to creating innovative web and mobile solutions that enhance user satisfaction and usability, helping companies transform their digital presence by delivering cutting-edge solutions that drive results 💻
+    Innovative Front-end Developer with over 5+ years of experience in crafting immersive digital experiences, I've been a key contributor to creating innovative web and mobile solutions that enhance user satisfaction and usability, helping companies transform their digital presence by delivering cutting-edge solutions that drive results 💻
   </p>
   <a href='https://www.linkedin.com/in/mateus-fugita/'>
     <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='LinkedIn'/>
